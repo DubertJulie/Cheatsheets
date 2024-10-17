@@ -1,5 +1,6 @@
-## GIT CHEAT SHEET
+# GIT CHEAT SHEET
 
+### Récupérer un fichier sur github :v:
 ```
 git init
 ```
@@ -10,6 +11,7 @@ git clone
 ```
 Clone le répertoire distant sur la machine.
 
+### Procédure pour ajouter mon fichier sur github :+1:
 ```
 git add
 ```
